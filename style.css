@@ -1,0 +1,18 @@
+Body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl19T_bMG4K9RBQpP4S5doxO4-B2ywGv2KmA&usqp=CAU");
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: blue;
+}
+
+h1{
+    color: blue;
+}
+
+.jogo{
+    border: blue;
+}
